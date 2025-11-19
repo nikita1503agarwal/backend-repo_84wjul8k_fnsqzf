@@ -1,17 +1,11 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [202] using StatReload
+INFO:     Started server process [204]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:37086 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:37096 - "OPTIONS /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37110 - "OPTIONS /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37108 - "GET /rooms HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37096 - "POST /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37108 - "GET /rooms HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37110 - "POST /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37122 - "POST /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58240 - "GET /rooms HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58232 - "POST /availability HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37122 - "GET /rooms HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38804 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:51086 - "GET /rooms HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51080 - "POST /availability HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51114 - "GET /rooms HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51100 - "POST /availability HTTP/1.1" 200 OK
